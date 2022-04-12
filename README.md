@@ -1,2 +1,2 @@
 # holidaze-backend
- Initial setup for Holidaze with Strapi.
+ Strapi setup for Holidaze.
